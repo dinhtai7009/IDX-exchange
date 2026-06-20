@@ -10,7 +10,7 @@ Modification Timestamp: the last date/time the listing was modified\
 PhotosChangeTimestamp: timestamp of when the last update/change to listing photos was made\
 PhotosCount: Total number of photos included with listing\
 PostalCode: postal code of property’s street or mailing address\
-StandardStatus: status of listing or state of contract between listing agent and seller or an agreement with buyer, single select field(can only be one status, not multiple)\
+StandardStatus: status of listing or state of contract between listing agent and seller or an agreement with buyer, single select field(can only be one status, not multiple)
 
 
 
