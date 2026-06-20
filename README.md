@@ -2,7 +2,7 @@
 Summer 2026 Internship(Tai Dinh)
 
 ## Week 0:
-These are my notes on the key columns of the dataset from the metadata document.\
+These are my notes on the key columns of the dataset from the metadata document.
 ### Key Column Definitions:
 ListingKey: primary key; unique identifier for each record/listing\
 ListingID: well-known identifier for listing, meant to be used for info retrieval but may not be unique\
